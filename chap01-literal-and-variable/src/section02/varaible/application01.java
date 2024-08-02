@@ -30,7 +30,7 @@ public class application01 {
         /*아무거나
         *
         * */
-/*수정*/
+/*수정을 더하자*/
 
     }
 
